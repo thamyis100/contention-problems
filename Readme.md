@@ -95,3 +95,7 @@ This project is licensed under the terms in the LICENSE file provided with the s
 This project was developed as part of an exercise in resource sharing and contention detection on real-time operating systems for embedded systems.
 
 ---
+
+## Video Demonstrate access contention problems when using shared resources in a multitasking system.
+
+https://github.com/user-attachments/assets/95eb6761-9c93-4300-b1bc-fcbe3aef6ca9
