@@ -95,3 +95,6 @@ This project is licensed under the terms in the LICENSE file provided with the s
 This project was developed as part of an exercise in resource sharing and contention detection on real-time operating systems for embedded systems.
 
 ---
+
+## Video Demo Exercise 5
+https://github.com/thamyis100/contention-problems/pull/3#issue-2657479652
