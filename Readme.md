@@ -95,3 +95,6 @@ This project is licensed under the terms in the LICENSE file provided with the s
 This project was developed as part of an exercise in resource sharing and contention detection on real-time operating systems for embedded systems.
 
 ---
+
+## Video Demo Execise 5
+https://github.com/user-attachments/assets/49a67dd6-889e-433e-97a5-72a038738d85
